@@ -187,4 +187,4 @@ function descargarJSON(data) {
     link.click();
 }
 // Llamado a la DESCARGA
-descargarJSON(claseXdia);
+/* descargarJSON(claseXdia); */
